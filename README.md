@@ -1,4 +1,12 @@
-### Hi there 👋
+Hi , i'm o Vitor Braga👋 !!!!!
+
+🌱 I'm currently learning CSS, JavaScript, Node.js, MySQL,  React and Typescript .
+
+💬 Ask me about ...
+
+📫 How to reach me: Brasília/DF Brazil.
+
+Where can you find me?
 
 <!--
 **VitorBrag/VitorBrag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
