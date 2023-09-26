@@ -1,6 +1,6 @@
 Hi , i'm o Vitor Braga👋 !!!!!
 
-🌱 I'm currently learning CSS, HTML5, JavaScript, Node.js, MySQL,  React and Typescript .
+🌱 I'm currently learning CSS, HTML5, JavaScript, Node.js, MySQL,  .
 
 💬 Ask me about ...
 
