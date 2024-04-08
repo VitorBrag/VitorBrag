@@ -1,15 +1,10 @@
-Hi , i'm o Vitor Braga👋 !!!!!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00DDF7&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+Vitor+Braga)](https://git.io/typing-svg)
 
-🌱 I'm currently learning CSS, HTML5, JavaScript, Node.js, MySQL,  .
+<p align="left">Sou estudante de Engenharia de Softwares na  Faculdade Uniasselvi, tenho um forte interesse no desenvolvimento Fullstack. Dedico-me ao estudo e atualização constante na área de tecnologia, participando de aulas, workshops e projetos práticos. Meu objetivo é dominar tanto o front-end quanto o back-end, visando criar soluções inovadoras e completas que atendam às demandas do mercado.
 
-💬 Ask me about ...
-
-📫 How to reach me: Brasília/DF Brazil.
-
-Where can you find me?
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-braga-8289b5239/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitor.braga_/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=00e1ff&color:FFF)](mailto:vitorbraga4008@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00e1ff&color:FFF)](https://www.linkedin.com/in/vitor-braga-8289b5239/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=00e1ff&color:FFF)](https://www.instagram.com/vitor.braga_/)
 
 ## 🛠 Skills 
 
